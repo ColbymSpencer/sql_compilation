@@ -1,0 +1,413 @@
+"SPECIES_KEY"	"CREATE_USER_NAME"	"CREATE_TS"	"BEGIN_DATE"	"SCIENTIFIC_NAME"	"COMMON_NAME"	"FLEPC_FLEPPC_CATEGORY_KEY"	"TSN_NBR"	"NOTES_TEXT"	"MODIFY_USER_NAME"	"MODIFY_TS"	"END_DATE"
+91	"Admin"	15-FEB-10	15-FEB-10	"Ipomoea quamoclit"	"Cypressvine"	3		""	"NRTS"	04-AUG-15	
+92	"Admin"	15-FEB-10	15-FEB-10	"Cestrum diurnum"	"Day jessamine"	2		""	"NRTS"	04-AUG-15	
+93	"Admin"	15-FEB-10	15-FEB-10	"Alstonia macrophylla"	"Deviltree"	2		""	"NRTS"	04-AUG-15	
+94	"Admin"	15-FEB-10	15-FEB-10	"Kalanchoe daigremontiana"	"Devil's backbone"	3		""	"NRTS"	04-AUG-15	
+95	"Admin"	15-FEB-10	15-FEB-10	"Landoltia punctata "	"Spotted duckweed"	2		""	"NRTS"	04-AUG-15	
+96	"Admin"	15-FEB-10	15-FEB-10	"Rhodomyrtus tomentosa"	"Downy rose-myrtle"	1		""	"NRTS"	04-AUG-15	
+97	"Admin"	15-FEB-10	15-FEB-10	"Dactyloctenium aegyptium"	"Durban crowfootgrass"	2		""	"NRTS"	04-AUG-15	
+98	"Admin"	15-FEB-10	15-FEB-10	"Musa acuminata"	"Dwarf banana"	3		""	"NRTS"	04-AUG-15	
+99	"Admin"	15-FEB-10	15-FEB-10	"Cyperus prolifer"	"Dwarf papyrus"	2		""	"NRTS"	04-AUG-15	
+100	"Admin"	15-FEB-10	15-FEB-10	"Caesalpinia pulcherrima"	"Dwarf poinciana"	3		""	"NRTS"	04-AUG-15	
+101	"Admin"	15-FEB-10	15-FEB-10	"Acacia auriculiformis"	"Earleaf acacia"	1		""	"NRTS"	04-AUG-15	
+102	"Admin"	15-FEB-10	15-FEB-10	"Enterolobium contortisiliquum"	"Earpod tree"	3		""	"NRTS"	04-AUG-15	
+103	"Admin"	15-FEB-10	15-FEB-10	"Lilium longiflorum"	"Easter lilly"	3		""	"NRTS"	04-AUG-15	
+104	"Admin"	15-FEB-10	15-FEB-10	"Xanthosoma sagittifolium"	"Elephant ear"	2		""	"NRTS"	04-AUG-15	
+105	"Admin"	15-FEB-10	15-FEB-10	"Hedera helix"	"English ivy"	3		""	"NRTS"	04-AUG-15	
+106	"Admin"	15-FEB-10	15-FEB-10	"Eucalyptus sp."	"Eucalyptus"	3		""	"NRTS"	04-AUG-15	
+107	"Admin"	15-FEB-10	15-FEB-10	"Myriophyllum spicatum"	"Eurasian water-milfoil"	2		""	"NRTS"	04-AUG-15	
+108	"Admin"	15-FEB-10	15-FEB-10	"Ficus altissima"	"False banyan"	2		""	"NRTS"	04-AUG-15	
+109	"Admin"	15-FEB-10	15-FEB-10	"Spermacoce verticillata "	"Shrubby false buttonweed"	3		""	"NRTS"	04-AUG-15	
+110	"Admin"	15-FEB-10	15-FEB-10	"Pyracantha spp."	"Firethorn"	3		""	"NRTS"	04-AUG-15	
+111	"Admin"	15-FEB-10	15-FEB-10	"Caryota mitis"	"Fishtail palm"	3		""	"NRTS"	04-AUG-15	
+112	"Admin"	15-FEB-10	15-FEB-10	"Nephrolepis falcata"	"Fishtail swordfern"	3		""	"NRTS"	04-AUG-15	
+113	"Admin"	15-FEB-10	15-FEB-10	"Koelreuteria elegans"	"Flamegold tree"	2		""	"NRTS"	04-AUG-15	
+114	"Admin"	15-FEB-10	15-FEB-10	"Roystonea regia "	"Florida royal palm"	3		""	"NRTS"	04-AUG-15	
+115	"Admin"	15-FEB-10	15-FEB-10	"Emilia fosbergii"	"Florida tasselflower"	3		""	"NRTS"	04-AUG-15	
+116	"Admin"	15-FEB-10	15-FEB-10	"Mirabilis jalapa"	"Four-o'clock"	3		""	"NRTS"	04-AUG-15	
+117	"Admin"	15-FEB-10	15-FEB-10	"Asystasia gangetica"	"Ganges primrose"	2		""	"NRTS"	04-AUG-15	
+118	"Admin"	15-FEB-10	15-FEB-10	"Hibiscus rosa-sinensis"	"Garden rosemallow"	3		""	"NRTS"	04-AUG-15	
+119	"Admin"	15-FEB-10	15-FEB-10	"Arundo donax"	"Giant reed"	3		""	"NRTS"	04-AUG-15	
+120	"Admin"	15-FEB-10	15-FEB-10	"Hedychium sp."	"Gingerlily"	3		""	"NRTS"	04-AUG-15	
+121	"Admin"	15-FEB-10	15-FEB-10	"Gladiolus sp."	"Gladiola"	3		""	"NRTS"	04-AUG-15	
+122	"Admin"	15-FEB-10	15-FEB-10	"Clerodendrum sp."	"Glorybower"	3		""	"NRTS"	04-AUG-15	
+123	"Admin"	15-FEB-10	15-FEB-10	"Ligustrum lucidum"	"Glossy privet"	1		""	"NRTS"	04-AUG-15	
+124	"G Walker"	21-FEB-12	21-FEB-12	"Dracaena marginata"	"Dragon tree"	3		""	"NRTS"	04-AUG-15	
+125	"G Walker"	21-MAY-12	21-MAY-12	"Plumeria obtusa"	"Frangipani"	3		""	"NRTS"	04-AUG-15	
+126	"G Walker"	21-MAY-12	21-MAY-12	"Launaea intybacea"	"Achicoria azul"	3		""	"NRTS"	04-AUG-15	
+127	"G Walker"	21-MAY-12	21-MAY-12	"Psychotria punctata"	"Dotted wild coffee"	3		""	"NRTS"	04-AUG-15	
+128	"G Walker"	13-AUG-12	13-AUG-12	"Hyptis mutabilis"	"Tropical bushmint"	3		""	"NRTS"	04-AUG-15	
+129	"G Walker"	14-AUG-12	14-AUG-12	"Eustachys distichophylla"	"Weeping fingergrass"	3		""	"NRTS"	04-AUG-15	
+130	"G Walker"	14-AUG-12	14-AUG-12	"Cucumis melo"	"Cantaloupe"	3		""	"NRTS"	04-AUG-15	
+131	"G Walker"	15-OCT-12	15-OCT-12	"Manihot grahamii"	"Graham's cassava"	3		""	"NRTS"	04-AUG-15	
+132	"G Walker"	15-OCT-13	15-OCT-13	"Jasminum mesnyi"	"Japanese jasmine"	3		""	"NRTS"	04-AUG-15	
+133	"G Walker"	18-OCT-12	18-OCT-12	"Arachniodes simplicior"	"Indian shield fern"	3		""	"NRTS"	04-AUG-15	
+134	"G Walker"	18-OCT-12	18-OCT-12	"Eulophia graminea"	"Eulophia graminea"	2		""	"NRTS"	04-AUG-15	
+135	"G Walker"	02-JAN-13	02-JAN-13	"Iris pseudacorus"	"Paleyellow iris"	3		""	"NRTS"	04-AUG-15	
+136	"G Walker"	02-JAN-13	02-JAN-13	"Strychnos spinosa"	"Wood orange"	3		""	"NRTS"	04-AUG-15	
+137	"G Walker"	03-JAN-13	03-JAN-13	"Oxycaryum cubense"	"Cuban bullrush"	3		""	"NRTS"	04-AUG-15	
+138	"N Jones"	23-OCT-13	23-OCT-13	"Agave angustifolia"	"Century plant"	3		""	"N Jones"	23-OCT-13	
+139	"G Walker"	14-FEB-14	14-FEB-14	"Crotalaria retusa"	"Rattleweed"	3		""	"NRTS"	04-AUG-15	
+140	"G Walker"	18-MAR-14	18-MAR-14	"Gliricidia sepium"	"Quickstick"	3		""	"NRTS"	04-AUG-15	
+141	"G Walker"	18-MAR-14	18-MAR-14	"Malpighia emarginata"	"Barbados cherry"	3		""	"NRTS"	04-AUG-15	
+142	"G Walker"	18-MAR-14	18-MAR-14	"Nerium oleander"	"Oleander"	3		""	"NRTS"	04-AUG-15	
+143	"Admin"	15-FEB-10	15-FEB-10	"Jasminum dichotomum"	"Gold coast jasmine"	1		""	"NRTS"	04-AUG-15	
+144	"Admin"	15-FEB-10	15-FEB-10	"Phyllostachys aurea"	"Golden bamboo"	2		""	"NRTS"	04-AUG-15	
+145	"Admin"	15-FEB-10	15-FEB-10	"Cassia fistula"	"Golden shower"	3		""	"NRTS"	04-AUG-15	
+146	"Admin"	15-FEB-10	15-FEB-10	"Flacourtia indica"	"Governor's plum"	2		""	"NRTS"	04-AUG-15	
+147	"Admin"	15-FEB-10	15-FEB-10	"Pennisetum setaceum"	"Green fountain grass"	2		""	"NRTS"	04-AUG-15	
+148	"Admin"	15-FEB-10	15-FEB-10	"Hygrophila polysperma"	"Green hygro"	1		""	"NRTS"	04-AUG-15	
+149	"Admin"	15-FEB-10	15-FEB-10	"Oeceoclades maculata"	"Ground orchid"	3		""	"NRTS"	04-AUG-15	
+150	"Admin"	15-FEB-10	15-FEB-10	"Glechoma hederacea"	"Groundivy"	3		""	"NRTS"	04-AUG-15	
+151	"Admin"	15-FEB-10	15-FEB-10	"Psidium guajava"	"Guava"	1		""	"NRTS"	04-AUG-15	
+152	"Admin"	15-FEB-10	15-FEB-10	"Panicum maximum"	"Guinea grass"	2		""	"NRTS"	04-AUG-15	
+153	"Admin"	15-FEB-10	15-FEB-10	"Ruellia ciliatiflora"	"Hairyflower wild petunia"	3		""	"NRTS"	04-AUG-15	
+154	"Admin"	15-FEB-10	15-FEB-10	"Indigofera hirsuta"	"Hairy indigo"	3		""	"NRTS"	04-AUG-15	
+155	"Admin"	15-FEB-10	15-FEB-10	"Poncirus trifoliata"	"Hardy orange"	3		""	"NRTS"	04-AUG-15	
+156	"Admin"	15-FEB-10	15-FEB-10	"Bambusa multiplex"	"Hedge bamboo"	3		""	"NRTS"	04-AUG-15	
+157	"Admin"	15-FEB-10	15-FEB-10	"Hiptage benghalensis"	"Hiptage"	3		""	"NRTS"	04-AUG-15	
+158	"Admin"	15-FEB-10	15-FEB-10	"Hydrilla verticillata"	"Hydrilla"	1		""	"NRTS"	04-AUG-15	
+159	"Admin"	15-FEB-10	15-FEB-10	"Impatiens sp."	"Impatiens"	3		""	"NRTS"	04-AUG-15	
+160	"Admin"	15-FEB-10	15-FEB-10	"Callisia fragrans"	"Inch plant"	2		""	"NRTS"	04-AUG-15	
+161	"Admin"	15-FEB-10	15-FEB-10	"Tectaria incisa"	"Incised halberd fern"	1		""	"NRTS"	04-AUG-15	
+162	"Admin"	15-FEB-10	15-FEB-10	"Dalbergia sissoo"	"Indian rosewood"	2		""	"NRTS"	04-AUG-15	
+163	"Admin"	15-FEB-10	15-FEB-10	"Canna indica"	"Indian shot"	3		""	"NRTS"	04-AUG-15	
+164	"Admin"	15-FEB-10	15-FEB-10	"Ipomoea hederacea"	"Ivyleaf morning-glory"	3		""	"NRTS"	04-AUG-15	
+165	"Admin"	15-FEB-10	15-FEB-10	"Ixora coccinea"	"Ixora "	3		""	"NRTS"	04-AUG-15	
+166	"Admin"	15-FEB-10	15-FEB-10	"Jacquinia arborea"	"Jacquinia"	3		""	"NRTS"	04-AUG-15	
+167	"Admin"	15-FEB-10	15-FEB-10	"Solanum jamaicense"	"Jamaica nightshade"	2	30436	""	"NRTS"	04-AUG-15	20-DEC-17
+168	"Admin"	15-FEB-10	15-FEB-10	"Ardisia japonica"	"Japanese ardisia"	2		""	"G Walker"	28-OCT-11	
+169	"Admin"	15-FEB-10	15-FEB-10	"Clematis terniflora"	"Japanese clematis"	2		""	"NRTS"	04-AUG-15	
+170	"Admin"	15-FEB-10	15-FEB-10	"Lygodium japonicum"	"Japanese climbing fern"	1		""	"NRTS"	04-AUG-15	
+171	"Admin"	15-FEB-10	15-FEB-10	"Deparia petersenii"	"Japanese false spleenwort"	1		""	"G Walker"	28-OCT-11	
+172	"Admin"	15-FEB-10	15-FEB-10	"Lonicera japonica"	"Japanese honeysuckle"	1		""	"NRTS"	04-AUG-15	
+173	"Admin"	15-FEB-10	15-FEB-10	"Prunus salicina"	"Japanese plum"	3		""	"NRTS"	04-AUG-15	
+174	"Admin"	15-FEB-10	15-FEB-10	"Ligustrum japonicum"	"Japanese privet"	3		""	"NRTS"	04-AUG-15	
+175	"Admin"	15-FEB-10	15-FEB-10	"Taxus cuspidata"	"Japanese yew"	3		""	"NRTS"	04-AUG-15	
+176	"Admin"	15-FEB-10	15-FEB-10	"Hyparrhenia rufa"	"Jaragua"	2		""	"NRTS"	04-AUG-15	
+177	"Admin"	15-FEB-10	15-FEB-10	"Jasminum sp."	"Jasmine"	3		""	"NRTS"	04-AUG-15	
+353	"Admin"	15-FEB-10	15-FEB-10	"Podocarpus macrophyllus"	"Yew podocarpus"	3		""	"NRTS"	04-AUG-15	
+354	"per G Walker"	09-APR-10	09-APR-10	"Zea mays"	"Corn"	3		""	"NRTS"	04-AUG-15	
+355	"per G Walker"	23-APR-10	23-APR-10	"Berberis bealei"	"Leatherleaf mahonia"	3		""	"G Walker"	10-JUN-10	
+356	"G Walker"	01-JUN-10	01-JUN-10	"Coccocypselum hirsutum"	"Yerba de guava"	3		""	"NRTS"	04-AUG-15	
+357	"G Walker"	01-JUN-10	01-JUN-10	"Callitris glaucophylla"	"White cypress-pine"	3		""	"NRTS"	04-AUG-15	
+358	"G Walker"	01-JUN-10	01-JUN-10	"Crotalaria pallida"	"Smooth rattlebox"	3		""	"NRTS"	04-AUG-15	
+359	"G Walker"	21-SEP-10	21-SEP-10	"Ficus benghalensis"	"Banyan tree"	3		""	"NRTS"	04-AUG-15	
+360	"G Walker"	21-SEP-10	21-SEP-10	"Cyperus esculentus"	"Yellow nutgrass"	3		""	"NRTS"	04-AUG-15	
+361	"G Walker"	21-SEP-10	21-SEP-10	"Euphorbia tirucalli"	"Pencil tree"	3		""	"NRTS"	04-AUG-15	
+362	"G Walker"	09-DEC-10	09-DEC-10	"Sporobolus indicus"	"Smutgrass"	3		""	"NRTS"	04-AUG-15	
+363	"G Walker"	20-JAN-11	20-JAN-11	"Desmodium tortuosum"	"Dixie ticktrefoil"	3		""	"NRTS"	04-AUG-15	
+364	"G Walker"	20-JAN-11	20-JAN-11	"Phaius tancarvilleae"	"Nun's-hood orchid"	3		""	"NRTS"	04-AUG-15	
+365	"G Walker"	20-JAN-11	20-JAN-11	"Lolium perenne"	"Italian ryegrass"	3		""	"NRTS"	04-AUG-15	
+366	"G Walker"	20-JAN-11	20-JAN-11	"Macrothelypteris torresiana"	"Mariana maiden fern"	3		""	"NRTS"	04-AUG-15	
+367	"G Walker"	20-JAN-11	20-JAN-11	"Richardia scabra"	"Rough mexican clover"	3		""	"NRTS"	04-AUG-15	
+368	"G Walker"	06-SEP-11	06-SEP-11	"Perilla frutescens"	"Beefsteak plant"	3		""	"NRTS"	04-AUG-15	
+369	"NRTS"	07-SEP-11	07-SEP-11	"Parthenium hysterophorus"	"Feverfew"	3		""	"NRTS"	04-AUG-15	
+370	"GW"	23-SEP-11	23-SEP-11	"Salsola kali subsp. pontica"	"Prickly russian thistle"	3		""	"NRTS"	04-AUG-15	
+371	"G Kaufmann"	07-OCT-11	07-OCT-11	"Heteropogon contortus"	"Tanglehead"	3		""	"G Kaufmann"	07-OCT-11	
+372	"G Kaufmann"	07-OCT-11	07-OCT-11	"Rottboellia cochinchinensis"	"Itchgrass"	3		""	"G Kaufmann"	07-OCT-11	
+373	"G Walker"	13-OCT-11	13-OCT-11	"Indigofera spicata"	"Trailing indigo"	3		""	"NRTS"	04-AUG-15	
+374	"G Walker"	13-OCT-11	13-OCT-11	"Indigofera suffruticosa"	"Anil de pasto"	3		""	"NRTS"	04-AUG-15	
+375	"G Walker"	13-OCT-11	13-OCT-11	"Mimusops coriacea"	"Monkey's apple"	3		""	"NRTS"	04-AUG-15	
+376	"G Walker"	13-OCT-11	13-OCT-11	"Nasturtium officinale"	"European watercress"	3		""	"NRTS"	04-AUG-15	
+377	"G Walker"	13-OCT-11	13-OCT-11	"Peperomia pellucida"	"Pepper-elder"	3		""	"NRTS"	04-AUG-15	
+378	"G Walker"	13-OCT-11	13-OCT-11	"Trifolium incarnatum"	"Crimson clover"	3	26262	""	"NRTS"	04-AUG-15	
+379	"G Walker"	10-FEB-12	10-FEB-12	"Solanum sisymbriifolium"	"Sticky nightshade"	3		""	"NRTS"	04-AUG-15	
+178	"Admin"	15-FEB-10	15-FEB-10	"Syzygium cumini"	"Java plum"	1		""	"NRTS"	04-AUG-15	
+179	"Admin"	15-FEB-10	15-FEB-10	"Clerodendrum speciosissimum"	"Javanese glorybower"	3		""	"NRTS"	04-AUG-15	
+180	"Admin"	15-FEB-10	15-FEB-10	"Parkinsonia aculeata"	"Jerusalem thorn"	3		""	"NRTS"	04-AUG-15	
+181	"Admin"	15-FEB-10	15-FEB-10	"Sorghum halepense"	"Johnsongrass"	3		""	"NRTS"	04-AUG-15	
+182	"Admin"	15-FEB-10	15-FEB-10	"Echinochloa colona"	"Jungle rice"	3		""	"NRTS"	04-AUG-15	
+183	"Admin"	15-FEB-10	15-FEB-10	"Kalanchoe sp. "	"Kalanchoe"	3		""	"NRTS"	04-AUG-15	
+184	"Admin"	15-FEB-10	15-FEB-10	"Ochrosia elliptica"	"Kopsia"	3		""	"NRTS"	04-AUG-15	
+185	"Admin"	15-FEB-10	15-FEB-10	"Pueraria montana"	"Kudzu"	1		""	"NRTS"	04-AUG-15	
+186	"Admin"	15-FEB-10	15-FEB-10	"Lantana camara"	"Lantana"	1		""	"NRTS"	04-AUG-15	
+187	"Admin"	15-FEB-10	15-FEB-10	"Richardia grandiflora"	"Largeflower mexican clover"	2		""	"NRTS"	04-AUG-15	
+188	"Admin"	15-FEB-10	15-FEB-10	"Cordia sebestena"	"Largeleaf geigertree"	3		""	"NRTS"	04-AUG-15	
+189	"Admin"	15-FEB-10	15-FEB-10	"Morrenia odorata"	"Latex plant"	3		""	"NRTS"	04-AUG-15	
+190	"Admin"	15-FEB-10	15-FEB-10	"Colubrina asiatica"	"Lather leaf"	1		""	"NRTS"	04-AUG-15	
+191	"Admin"	15-FEB-10	15-FEB-10	"Ficus microcarpa"	"Laurel fig"	1		""	"NRTS"	04-AUG-15	
+192	"Admin"	15-FEB-10	15-FEB-10	"Zeuxine strateumatica"	"Lawn orchid"	3		""	"NRTS"	04-AUG-15	
+193	"Admin"	15-FEB-10	15-FEB-10	"Leucaena leucocephala"	"Lead tree"	2		""	"NRTS"	04-AUG-15	
+194	"Admin"	15-FEB-10	15-FEB-10	"Rumohra adiantiformis"	"Leatherleaf fern"	3		""	"NRTS"	04-AUG-15	
+195	"Admin"	15-FEB-10	15-FEB-10	"Kalanchoe pinnata"	"Life plant"	2		""	"NRTS"	04-AUG-15	
+196	"Admin"	15-FEB-10	15-FEB-10	"Sida cordifolia"	"Llima"	3		""	"NRTS"	04-AUG-15	
+197	"Admin"	15-FEB-10	15-FEB-10	"Hemarthria altissima"	"Limpo grass"	2		""	"NRTS"	04-AUG-15	
+198	"Admin"	15-FEB-10	15-FEB-10	"Leonotis nepetifolia"	"Lion's-ear"	3		""	"NRTS"	04-AUG-15	
+199	"Admin"	15-FEB-10	15-FEB-10	"Eriobotrya japonica"	"Loquat"	3		""	"NRTS"	04-AUG-15	
+200	"Admin"	15-FEB-10	15-FEB-10	"Thevetia peruviana"	"Luckynut"	3		""	"NRTS"	04-AUG-15	
+201	"Admin"	15-FEB-10	15-FEB-10	"Catharanthus roseus"	"Madagascar periwinkle"	3		""	"NRTS"	04-AUG-15	
+202	"Admin"	15-FEB-10	15-FEB-10	"Talipariti tiliaceum"	"Mahoe"	2		""	"NRTS"	04-AUG-15	
+203	"Admin"	15-FEB-10	15-FEB-10	"Pouteria sapota"	"Mamay"	3		""	"NRTS"	04-AUG-15	
+204	"Admin"	15-FEB-10	15-FEB-10	"Mangifera indica"	"Mango"	3		""	"NRTS"	04-AUG-15	
+205	"Admin"	15-FEB-10	15-FEB-10	"Melaleuca quinquenervia"	"Melaleuca"	1		""	"NRTS"	04-AUG-15	
+206	"Admin"	15-FEB-10	15-FEB-10	"Pseudogynoxys chenopodiodes"	"Mexican flamevine"	3		""	"NRTS"	04-AUG-15	
+207	"Admin"	15-FEB-10	15-FEB-10	"Cuphea hyssopifolia"	"Mexican heather"	3		""	"NRTS"	04-AUG-15	
+208	"Admin"	15-FEB-10	15-FEB-10	"Ruellia simplex"	"Mexican petunia"	1		""	"NRTS"	04-AUG-15	
+209	"Admin"	15-FEB-10	15-FEB-10	"Chenopodium ambrosioides"	"Mexican tea"	3		""	"NRTS"	04-AUG-15	
+210	"Admin"	15-FEB-10	15-FEB-10	"Ipomoea cairica"	"Mile-a-minute vine"	3		""	"NRTS"	04-AUG-15	
+211	"Admin"	15-FEB-10	15-FEB-10	"Albizia julibrissin"	"Mimosa"	1		""	"G Walker"	10-JUN-10	
+212	"Admin"	15-FEB-10	15-FEB-10	"Melinis minutiflora"	"Molasses grass"	2		""	"NRTS"	04-AUG-15	
+213	"Admin"	15-FEB-10	15-FEB-10	"Ophiopogon japonicus"	"Mondo grass"	3		""	"NRTS"	04-AUG-15	
+214	"Admin"	15-FEB-10	15-FEB-10	"Glandularia aristigera"	"Moss verbena"	3		""	"NRTS"	04-AUG-15	
+215	"Admin"	15-FEB-10	15-FEB-10	"Nandina domestica"	"Nandina"	1		""	"NRTS"	04-AUG-15	
+216	"Admin"	15-FEB-10	15-FEB-10	"Pennisetum purpureum"	"Napier grass"	1		""	"NRTS"	04-AUG-15	
+217	"Admin"	15-FEB-10	15-FEB-10	"Melinis repens"	"Natal grass"	1		""	"NRTS"	04-AUG-15	
+218	"Admin"	15-FEB-10	15-FEB-10	"Carissa macrocarpa"	"Natal plum"	3		""	"NRTS"	04-AUG-15	
+219	"Admin"	15-FEB-10	15-FEB-10	"Merremia dissecta"	"Nayou vine"	3		""	"NRTS"	04-AUG-15	
+220	"Admin"	15-FEB-10	15-FEB-10	"Stachytarpheta cayennensis"	"Nettle-leaf porterweed"	2		""	"NRTS"	04-AUG-15	
+221	"Admin"	15-FEB-10	15-FEB-10	"Tetragonia tetragonioides"	"New zealand spinach"	3		""	"NRTS"	04-AUG-15	
+222	"Admin"	15-FEB-10	15-FEB-10	"Hylocereus undatus"	"Night-blooming cactus"	3		""	"NRTS"	04-AUG-15	
+223	"Admin"	15-FEB-10	15-FEB-10	"Araucaria heterphylla"	"Norfolk island pine"	3		""	"NRTS"	04-AUG-15	
+224	"Admin"	15-FEB-10	15-FEB-10	"Cyperus rotundus "	"Nutgrass"	3		""	"NRTS"	04-AUG-15	
+225	"Admin"	15-FEB-10	15-FEB-10	"Lygodium microphyllum"	"Old world climbing fern"	1		""	"NRTS"	04-AUG-15	
+226	"Admin"	15-FEB-10	15-FEB-10	"Murraya paniculata"	"Orange-jessamine"	2		""	"NRTS"	04-AUG-15	
+227	"Admin"	15-FEB-10	15-FEB-10	"Bauhinia variegata"	"Orchid tree"	1		""	"NRTS"	04-AUG-15	
+228	"Admin"	15-FEB-10	15-FEB-10	"Tradescantia spathacea"	"Oyster plant"	2		""	"NRTS"	04-AUG-15	
+229	"Admin"	15-FEB-10	15-FEB-10	"Cortaderia selloana "	"Pampas grass"	3		""	"NRTS"	04-AUG-15	
+230	"Admin"	15-FEB-10	15-FEB-10	"Carica papaya"	"Papaya"	3		""	"NRTS"	04-AUG-15	
+231	"Admin"	15-FEB-10	15-FEB-10	"Broussonetia papyrifera"	"Paper mulberry"	2		""	"NRTS"	04-AUG-15	
+232	"Admin"	15-FEB-10	15-FEB-10	"Urochloa mutica"	"Para grass"	1		""	"NRTS"	04-AUG-15	
+233	"Admin"	15-FEB-10	15-FEB-10	"Myriophyllum aquaticum"	"Parrot feather watermilfoil"	3		""	"NRTS"	04-AUG-15	
+234	"Admin"	15-FEB-10	15-FEB-10	"Passiflora edulis"	"Passionfruit"	3		""	"NRTS"	04-AUG-15	
+235	"Admin"	15-FEB-10	15-FEB-10	"Pittosporum pentandrum"	"Philippine pittosporum"	2		""	"NRTS"	04-AUG-15	
+236	"Admin"	15-FEB-10	15-FEB-10	"Ehretia microphylla"	"Philippine tea"	3		""	"NRTS"	04-AUG-15	
+237	"Admin"	15-FEB-10	15-FEB-10	"Philodendron sp."	"Philodendron"	3		""	"NRTS"	04-AUG-15	
+238	"Admin"	15-FEB-10	15-FEB-10	"Butia capitata"	"Pindo palm"	3		""	"NRTS"	04-AUG-15	
+239	"Admin"	15-FEB-10	15-FEB-10	"Ananas comosus"	"Pineapple"	3		""	"NRTS"	04-AUG-15	
+240	"Admin"	15-FEB-10	15-FEB-10	"Bromelia pinguin"	"Pinguin bromeliad"	3		""	"NRTS"	04-AUG-15	
+241	"Admin"	15-FEB-10	15-FEB-10	"Clusia rosea"	"Pitchapple"	3		""	"NRTS"	04-AUG-15	
+242	"Admin"	15-FEB-10	15-FEB-10	"Hypoestes phyllostachya"	"Polka dot plant"	3		""	"NRTS"	04-AUG-15	
+243	"Admin"	15-FEB-10	15-FEB-10	"Pongamia pinnata"	"Pongam"	3		""	"NRTS"	04-AUG-15	
+244	"Admin"	15-FEB-10	15-FEB-10	"Epipremnum pinnatum"	"Pothos"	2		""	"NRTS"	04-AUG-15	
+245	"Admin"	15-FEB-10	15-FEB-10	"Sida spinosa"	"Prickly fanpetals"	3		""	"NRTS"	04-AUG-15	
+246	"Admin"	15-FEB-10	15-FEB-10	"Tribulus spp."	"Puncturevine"	3		""	"G Walker"	10-JUN-10	
+247	"Admin"	15-FEB-10	15-FEB-10	"Tradescantia pallida"	"Purplequeen"	3		""	"NRTS"	04-AUG-15	
+248	"Admin"	15-FEB-10	15-FEB-10	"Sesbania punicea"	"Purple sesban"	2		""	"NRTS"	04-AUG-15	
+249	"Admin"	15-FEB-10	15-FEB-10	"Ludwigia peruviana"	"Peruvian primrosewillow"	1		""	"NRTS"	04-AUG-15	
+250	"Admin"	15-FEB-10	15-FEB-10	"Syagrus romanzoffianum"	"Queen palm"	2		""	"NRTS"	04-AUG-15	
+251	"Admin"	15-FEB-10	15-FEB-10	"Polypogon monspeliensis"	"Rabbitsfootgrass"	3		""	"NRTS"	04-AUG-15	
+252	"Admin"	15-FEB-10	15-FEB-10	"Adenanthera pavonina"	"Red sandalwood"	2		""	"NRTS"	04-AUG-15	
+253	"Admin"	15-FEB-10	15-FEB-10	"Lycoris radiata"	"Red spiderlily"	3		""	"NRTS"	04-AUG-15	
+254	"Admin"	15-FEB-10	15-FEB-10	"Photinia x fraseri"	"Red tip photinia"	3		""	"NRTS"	04-AUG-15	
+255	"Admin"	15-FEB-10	15-FEB-10	"Heteropteris beecheyana"	"Redwing vine"	3		""	"NRTS"	04-AUG-15	
+256	"Admin"	15-FEB-10	15-FEB-10	"Tetrapanax papyriferus"	"Ricepaper plant"	3		""	"NRTS"	04-AUG-15	
+257	"Admin"	15-FEB-10	15-FEB-10	"Casuarina cunninghamiana"	"River sheoak"	2		""	"NRTS"	04-AUG-15	
+258	"Admin"	15-FEB-10	15-FEB-10	"Abrus precatorius"	"Rosary pea"	1		""	"NRTS"	04-AUG-15	
+259	"Admin"	15-FEB-10	15-FEB-10	"Rosa spp."	"Rose spp."	3		""	"NRTS"	04-AUG-15	
+260	"Admin"	15-FEB-10	15-FEB-10	"Syzygium jambos"	"Rose-apple"	2		""	"NRTS"	04-AUG-15	
+261	"Admin"	15-FEB-10	15-FEB-10	"Clerodendrum bungei"	"Rose glorybower"	3		""	"NRTS"	04-AUG-15	
+262	"Admin"	15-FEB-10	15-FEB-10	"Rotala rotundifolia"	"Roundleaf toothcup"	2		""	"NRTS"	04-AUG-15	
+263	"Admin"	15-FEB-10	15-FEB-10	"Delonix regia"	"Royal poinciana"	3		""	"NRTS"	04-AUG-15	
+264	"Admin"	15-FEB-10	15-FEB-10	"Cryptostegia madagascariensis"	"Rubber vine"	2		""	"NRTS"	04-AUG-15	
+265	"Admin"	15-FEB-10	15-FEB-10	"Stenotaphrum secundatum"	"St. augustine grass"	3		""	"NRTS"	04-AUG-15	
+266	"Admin"	15-FEB-10	15-FEB-10	"Cycas revoluta"	"Sago palm"	3		""	"NRTS"	04-AUG-15	
+267	"Admin"	15-FEB-10	15-FEB-10	"Calophyllum antillanum"	"Santa maria"	1		""	"NRTS"	04-AUG-15	
+268	"Admin"	15-FEB-10	15-FEB-10	"Manilkara zapota"	"Sapodilla"	1		""	"NRTS"	04-AUG-15	
+269	"Admin"	15-FEB-10	15-FEB-10	"Schefflera actinophylla"	"Schefflera"	1		""	"NRTS"	04-AUG-15	
+270	"Admin"	15-FEB-10	15-FEB-10	"Pandanus utilis"	"Screw pine"	3		""	"NRTS"	04-AUG-15	
+271	"Admin"	15-FEB-10	15-FEB-10	"Thespesia populnea"	"Seaside mahoe"	1		""	"NRTS"	04-AUG-15	
+272	"Admin"	15-FEB-10	15-FEB-10	"Cordia dichotoma"	"Sebsten plum"	3		""	"NRTS"	04-AUG-15	
+273	"Admin"	15-FEB-10	15-FEB-10	"Phoenix reclinata"	"Senegal date palm"	2		""	"NRTS"	04-AUG-15	
+274	"Admin"	15-FEB-10	15-FEB-10	"Senna occidentalis"	"Septicweed"	3		""	"NRTS"	04-AUG-15	
+275	"Admin"	15-FEB-10	15-FEB-10	"Sesbania spp."	"Sesbania spp."	3		""	"NRTS"	04-AUG-15	
+276	"Admin"	15-FEB-10	15-FEB-10	"Paederia cruddasiana"	"Sewer vine"	1		""	"NRTS"	04-AUG-15	
+277	"Admin"	15-FEB-10	15-FEB-10	"Ardisia elliptica"	"Shoebutton ardisia"	1		""	"NRTS"	04-AUG-15	
+278	"Admin"	15-FEB-10	15-FEB-10	"Crotalaria spectabilis"	"Showy rattlebox"	3		""	"NRTS"	04-AUG-15	
+279	"Admin"	15-FEB-10	15-FEB-10	"Justicia brandegeana"	"Shrimpplant"	3		""	"NRTS"	04-AUG-15	
+280	"Admin"	15-FEB-10	15-FEB-10	"Ipomoea carnea"	"Shrub morning-glory"	2		""	"NRTS"	04-AUG-15	
+281	"Admin"	15-FEB-10	15-FEB-10	"Lespedeza bicolor"	"Shrubby lespedeza"	3		""	"NRTS"	04-AUG-15	
+282	"Admin"	15-FEB-10	15-FEB-10	"Senna obtusifolia"	"Sicklepod"	3		""	"NRTS"	04-AUG-15	
+283	"Admin"	15-FEB-10	15-FEB-10	"Sesbania sericea"	"Silky sesban"	3		""	"NRTS"	04-AUG-15	
+284	"Admin"	15-FEB-10	15-FEB-10	"Elaeagnus umbellata"	"Silverberry"	2		""	"NRTS"	04-AUG-15	
+285	"Admin"	15-FEB-10	15-FEB-10	"Elaeagnus pungens"	"Silverthorn"	2		""	"NRTS"	04-AUG-15	
+286	"Admin"	15-FEB-10	15-FEB-10	"Vitex trifolia"	"Simple-leaf chaste tree"	2		""	"NRTS"	04-AUG-15	
+287	"Admin"	15-FEB-10	15-FEB-10	"Agave sisalana"	"Sisal hemp"	2		""	"NRTS"	04-AUG-15	
+288	"Admin"	15-FEB-10	15-FEB-10	"Paederia foetida"	"Skunk vine"	1		""	"NRTS"	04-AUG-15	
+289	"Admin"	15-FEB-10	15-FEB-10	"Tradescantia fluminensis"	"Small-leaf spiderwort"	1		""	"NRTS"	04-AUG-15	
+290	"Admin"	15-FEB-10	15-FEB-10	"Selenocereus pteranthus"	"Snake cactus"	3		""	"NRTS"	04-AUG-15	
+291	"Admin"	15-FEB-10	15-FEB-10	"Nymphoides cristata"	"Snowflake"	1		""	"NRTS"	04-AUG-15	
+292	"Admin"	15-FEB-10	15-FEB-10	"Ptychosperma elegans"	"Solitaire palm"	2		""	"NRTS"	04-AUG-15	
+293	"Admin"	15-FEB-10	15-FEB-10	"Momordica balsamina"	"Southern balsampear"	3		""	"NRTS"	04-AUG-15	
+294	"Admin"	15-FEB-10	15-FEB-10	"Sonchus oleraceus"	"Sowthistle"	3		""	"NRTS"	04-AUG-15	
+295	"Admin"	15-FEB-10	15-FEB-10	"Melicoccous bijugatus"	"Spanish lime"	3		""	"NRTS"	04-AUG-15	
+296	"Admin"	15-FEB-10	15-FEB-10	"Chlorophytum comosum"	"Spider plant"	3		""	"NRTS"	04-AUG-15	
+297	"Admin"	15-FEB-10	15-FEB-10	"Asparagus aethiopicus"	"Sprenger's asparagus-fern"	1		""	"NRTS"	04-AUG-15	
+298	"Admin"	15-FEB-10	15-FEB-10	"Jasminum multiflorum"	"Star jasmine"	3		""	"NRTS"	04-AUG-15	
+299	"Admin"	15-FEB-10	15-FEB-10	"Urtica dioica"	"Stinging nettle"	3		""	"NRTS"	04-AUG-15	
+300	"Admin"	15-FEB-10	15-FEB-10	"Passiflora foetida"	"Stinking passion-flower"	3		""	"NRTS"	04-AUG-15	
+301	"Admin"	15-FEB-10	15-FEB-10	"Psidium cattleianum"	"Strawberry guava"	1		""	"NRTS"	04-AUG-15	
+302	"Admin"	15-FEB-10	15-FEB-10	"Casuarina glauca"	"Suckering australian-pine"	1		""	"NRTS"	04-AUG-15	
+303	"Admin"	15-FEB-10	15-FEB-10	"Saccharum officinarum"	"Sugar cane"	3		""	"NRTS"	04-AUG-15	
+304	"Admin"	15-FEB-10	15-FEB-10	"Eugenia uniflora"	"Surinam cherry"	1		""	"NRTS"	04-AUG-15	
+305	"Admin"	15-FEB-10	15-FEB-10	"Solanum torvum"	"Susumber"	2		""	"NRTS"	04-AUG-15	
+306	"Admin"	15-FEB-10	15-FEB-10	"Heteropogon melanocarpus"	"Sweet tanglehead"	3		""	"NRTS"	04-AUG-15	
+307	"Admin"	15-FEB-10	15-FEB-10	"Monstera deliciosa"	"Swiss-cheese plant"	3		""	"NRTS"	04-AUG-15	
+308	"Admin"	15-FEB-10	15-FEB-10	"Nephrolepis cordifolia"	"Tuberous sword fern"	1		""	"NRTS"	04-AUG-15	
+309	"Admin"	15-FEB-10	15-FEB-10	"Tamarindus indica"	"Tamarind"	3		""	"NRTS"	04-AUG-15	
+310	"Admin"	15-FEB-10	15-FEB-10	"Zoysia matrella"	"Zoysia grass"	3		""	"NRTS"	04-AUG-15	
+311	"Admin"	15-FEB-10	15-FEB-10	"Anredera vesicaria"	"Texas madeiravine"	3		""	"NRTS"	04-AUG-15	
+312	"Admin"	15-FEB-10	15-FEB-10	"Thunbergia sp."	"Thunbergia"	3		""	"NRTS"	04-AUG-15	
+313	"Admin"	15-FEB-10	15-FEB-10	"Panicum repens"	"Torpedo grass"	1		""	"NRTS"	04-AUG-15	
+314	"Admin"	15-FEB-10	15-FEB-10	"Ailanthus altissima"	"Tree-of-heaven"	3		""	"NRTS"	04-AUG-15	
+315	"Admin"	15-FEB-10	15-FEB-10	"Terminalia catappa"	"Tropical-almond"	2		""	"NRTS"	04-AUG-15	
+316	"Admin"	15-FEB-10	15-FEB-10	"Luziola subintegra"	"Tropical american water grass"	1		""	"NRTS"	04-AUG-15	
+317	"Admin"	15-FEB-10	15-FEB-10	"Richardia brasiliensis"	"Tropical mexican clover"	3		""	"NRTS"	04-AUG-15	
+318	"Admin"	15-FEB-10	15-FEB-10	"Solanum viarum"	"Tropical soda apple"	1		""	"NRTS"	04-AUG-15	
+319	"Admin"	15-FEB-10	15-FEB-10	"Cecropia palmata"	"Trumpet tree"	2		""	"NRTS"	04-AUG-15	
+320	"Admin"	15-FEB-10	15-FEB-10	"Opuntia ficus-indica"	"Tuna cactus"	3		""	"NRTS"	04-AUG-15	
+321	"Admin"	15-FEB-10	15-FEB-10	"Aleurites fordii"	"Tung oil tree"	2		""	"NRTS"	04-AUG-15	
+322	"Admin"	15-FEB-10	15-FEB-10	"Clerodendrum indicum"	"Turk's turban"	3		""	"NRTS"	04-AUG-15	
+323	"Admin"	15-FEB-10	15-FEB-10	"Malvaviscus penduliflorus"	"Turk's-cap mallow"	3		""	"NRTS"	04-AUG-15	
+324	"Admin"	15-FEB-10	15-FEB-10	"Passiflora biflora"	"Two-flowered passion vine"	2		""	"NRTS"	04-AUG-15	
+325	"Admin"	15-FEB-10	15-FEB-10	"Solanum diphyllum"	"Two-leaf nightshade"	2		""	"NRTS"	04-AUG-15	
+326	"Admin"	15-FEB-10	15-FEB-10	"Cyperus involucratus"	"Umbrella plant"	2		""	"NRTS"	04-AUG-15	
+327	"Admin"	15-FEB-10	15-FEB-10	"Paspalum urvillei"	"Vaseygrass"	3		""	"NRTS"	04-AUG-15	
+328	"Admin"	15-FEB-10	15-FEB-10	"Tradescantia zebrina"	"Silver Inch Plant"	3	505556	""	"NRTS"	04-AUG-15	
+329	"Admin"	15-FEB-10	15-FEB-10	"Washingtonia robusta"	"Washington fan palm"	2		""	"NRTS"	04-AUG-15	
+330	"Admin"	15-FEB-10	15-FEB-10	"Eichhornia crassipes"	"Water-hyacinth"	1		""	"NRTS"	04-AUG-15	
+331	"Admin"	15-FEB-10	15-FEB-10	"Pistia stratiotes"	"Water-lettuce"	1		""	"NRTS"	04-AUG-15	
+332	"Admin"	15-FEB-10	15-FEB-10	"Salvinia minima"	"Water spangles"	1		""	"NRTS"	04-AUG-15	
+333	"Admin"	15-FEB-10	15-FEB-10	"Ipomoea aquatica"	"Waterspinach"	1		""	"NRTS"	04-AUG-15	
+334	"Admin"	15-FEB-10	15-FEB-10	"Begonia cucullata"	"Wax begonia"	2		""	"NRTS"	04-AUG-15	
+335	"Admin"	15-FEB-10	15-FEB-10	"Sphagneticola trilobata"	"Wedelia"	2		""	"NRTS"	04-AUG-15	
+336	"Admin"	15-FEB-10	15-FEB-10	"Ficus benjamina"	"Weeping fig"	3		""	"NRTS"	04-AUG-15	
+337	"Admin"	15-FEB-10	15-FEB-10	"Hymenachne amplexicaulis"	"West indian marsh grass"	1		""	"NRTS"	04-AUG-15	
+338	"Admin"	15-FEB-10	15-FEB-10	"Solanum tampicense"	"Wetland night shade"	1		""	"NRTS"	04-AUG-15	
+339	"Admin"	15-FEB-10	15-FEB-10	"Hedychium coronarium"	"White gingerlily"	3		""	"NRTS"	04-AUG-15	
+340	"Admin"	15-FEB-10	15-FEB-10	"Thunbergia fragrans"	"Whitelady"	3		""	"NRTS"	04-AUG-15	
+341	"Admin"	15-FEB-10	15-FEB-10	"Macroptilium lathyroides"	"Wild bushbean"	2		""	"NRTS"	04-AUG-15	
+342	"Admin"	15-FEB-10	15-FEB-10	"Manilkara jaimiqui"	"Wild dilly"	3		""	"NRTS"	04-AUG-15	
+343	"Admin"	15-FEB-10	15-FEB-10	"Colocasia esculenta"	"Wild taro"	1		""	"NRTS"	04-AUG-15	
+344	"Admin"	15-FEB-10	15-FEB-10	"Dioscorea alata"	"Winged yam"	1		""	"NRTS"	04-AUG-15	
+345	"Admin"	15-FEB-10	15-FEB-10	"Torenia fournieri"	"Wishbone flower"	3		""	"NRTS"	04-AUG-15	
+346	"Admin"	15-FEB-10	15-FEB-10	"Albizia lebbeck"	"Woman's tongue"	1		""	"NRTS"	04-AUG-15	
+347	"Admin"	15-FEB-10	15-FEB-10	"Merremia tuberosa"	"Wood-rose"	2		""	"NRTS"	04-AUG-15	
+348	"Admin"	15-FEB-10	15-FEB-10	"Scleria lacustris"	"Wright's nutrush"	1		""	"NRTS"	04-AUG-15	
+349	"Admin"	15-FEB-10	15-FEB-10	"Turnera ulmifolia"	"Yellow alder"	3		""	"NRTS"	04-AUG-15	
+350	"Admin"	15-FEB-10	15-FEB-10	"Tecoma stans"	"Yellow elder"	3		""	"NRTS"	04-AUG-15	
+351	"Admin"	15-FEB-10	15-FEB-10	"Sophora tomentosa v. occidentalis"	"Yellow necklacepod"	3		""	"NRTS"	04-AUG-15	
+352	"Admin"	15-FEB-10	15-FEB-10	"Peltophorum pterocarpum"	"Yellow poinciana"	3		""	"NRTS"	04-AUG-15	
+1	"Admin"	15-FEB-10	15-FEB-10	"Other"	"Other"	3		""	"NRTS"	04-AUG-15	
+2	"Admin"	15-FEB-10	15-FEB-10	"Hibiscus acetosella"	"African rosemallow"	3		""	"NRTS"	04-AUG-15	
+3	"Admin"	15-FEB-10	15-FEB-10	"Dioscorea bulbifera"	"Air-potato"	1		""	"NRTS"	04-AUG-15	
+4	"Admin"	15-FEB-10	15-FEB-10	"Allamanda cathartica"	"Allamanda"	3		""	"NRTS"	04-AUG-15	
+5	"Admin"	15-FEB-10	15-FEB-10	"Alternanthera philoxeroides"	"Alligator weed"	2		""	"NRTS"	04-AUG-15	
+6	"Admin"	15-FEB-10	15-FEB-10	"Aloe vera"	"Aloe vera"	3		""	"NRTS"	04-AUG-15	
+7	"Admin"	15-FEB-10	15-FEB-10	"Hippeastrum spp."	"Amaryllis"	3		""	"NRTS"	04-AUG-15	
+8	"Admin"	15-FEB-10	15-FEB-10	"Phlox drummondii"	"Annual phlox"	3		""	"NRTS"	04-AUG-15	
+9	"Admin"	15-FEB-10	15-FEB-10	"Jasminum sambac"	"Arabian jasmine"	3		""	"Gwalker"	28-OCT-11	
+10	"Admin"	15-FEB-10	15-FEB-10	"Pseudosasa japonica"	"Arrow bamboo"	3		""	"NRTS"	04-AUG-15	
+11	"Admin"	15-FEB-10	15-FEB-10	"Dypsis lutescens"	"Areca palm"	3		""	"NRTS"	04-AUG-15	
+12	"Admin"	15-FEB-10	15-FEB-10	"Syngonium podophyllum"	"Arrowhead vine"	1		""	"NRTS"	04-AUG-15	
+13	"Admin"	15-FEB-10	15-FEB-10	"Limnophila sessiliflora"	"Asian marshweed"	2		""	"NRTS"	04-AUG-15	
+14	"Admin"	15-FEB-10	15-FEB-10	"Nephrolepis brownii"	"Asian sword fern"	1		""	"NRTS"	04-AUG-15	
+15	"Admin"	15-FEB-10	15-FEB-10	"Terminalia muelleri"	"Australian-almond"	2		""	"NRTS"	04-AUG-15	
+16	"Admin"	15-FEB-10	15-FEB-10	"Senecio glomerata"	"Australian burnweed"	3		""	"NRTS"	04-AUG-15	
+17	"Admin"	15-FEB-10	15-FEB-10	"Casuarina equisetifolia"	"Australian-pine"	1		""	"NRTS"	04-AUG-15	
+18	"Admin"	15-FEB-10	15-FEB-10	"Rhododendron spp."	"Azalea"	3		""	"NRTS"	04-AUG-15	
+19	"Admin"	15-FEB-10	15-FEB-10	"Paspalum notatum"	"Bahiagrass"	3		""	"NRTS"	04-AUG-15	
+20	"Admin"	15-FEB-10	15-FEB-10	"Momordica charantia"	"Balsampear"	2		""	"NRTS"	04-AUG-15	
+21	"Admin"	15-FEB-10	15-FEB-10	"Bambusa sp."	"Bamboo"	3		""	"NRTS"	04-AUG-15	
+22	"Admin"	15-FEB-10	15-FEB-10	"Chamaedorea seifrizii"	"Bamboo palm"	2		""	"NRTS"	04-AUG-15	
+23	"Admin"	15-FEB-10	15-FEB-10	"Scaevola taccada"	"Beach naupaka"	1		""	"NRTS"	04-AUG-15	
+24	"Admin"	15-FEB-10	15-FEB-10	"Cynodon dactylon"	"Bermudagrass"	3		""	"NRTS"	04-AUG-15	
+25	"Admin"	15-FEB-10	15-FEB-10	"Bischofia javanica"	"Bishopwood"	1		""	"NRTS"	04-AUG-15	
+26	"Admin"	15-FEB-10	15-FEB-10	"Zingiber zerumbet"	"Bitter ginger"	3		""	"NRTS"	04-AUG-15	
+27	"Admin"	15-FEB-10	15-FEB-10	"Robinia pseudoacacia"	"Black locust"	3		""	"NRTS"	04-AUG-15	
+28	"Admin"	15-FEB-10	15-FEB-10	"Terminalia buceras"	"Black olive"	3		""	"NRTS"	04-AUG-15	
+29	"Admin"	15-FEB-10	15-FEB-10	"Liriope spicata"	"Border grass"	3		""	"NRTS"	04-AUG-15	
+30	"Admin"	15-FEB-10	15-FEB-10	"Melaleuca viminalis"	"Bottlebrush"	2		""	"NRTS"	04-AUG-15	
+31	"Admin"	15-FEB-10	15-FEB-10	"Bougainvillea sp."	"Bougainvillea"	3		""	"NRTS"	04-AUG-15	
+32	"Admin"	15-FEB-10	15-FEB-10	"Dracaena hyacinthoides"	"Bowstring hemp"	2	505007	""	"NRTS"	04-AUG-15	
+33	"Admin"	15-FEB-10	15-FEB-10	"Jasminum fluminense"	"Brazilian jasmine"	1		""	"NRTS"	04-AUG-15	
+34	"Admin"	15-FEB-10	15-FEB-10	"Schinus terebinthifolius"	"Brazilian pepper"	1		""	"NRTS"	04-AUG-15	
+35	"Admin"	15-FEB-10	15-FEB-10	"Verbena brasiliensis"	"Brazilian vervain"	3		""	"NRTS"	04-AUG-15	
+36	"Admin"	15-FEB-10	15-FEB-10	"Artocarpus sp."	"Breadfruit"	3		""	"NRTS"	04-AUG-15	
+37	"Admin"	15-FEB-10	15-FEB-10	"Robinia hispida"	"Bristly locust"	3		""	"NRTS"	04-AUG-15	
+38	"Admin"	15-FEB-10	15-FEB-10	"Ruellia blechum"	"Browne's blechum"	2		""	"NRTS"	04-AUG-15	
+39	"Admin"	15-FEB-10	15-FEB-10	"Manilkara sp."	"Bulletwood"	3		""	"NRTS"	04-AUG-15	
+40	"Admin"	15-FEB-10	15-FEB-10	"Cirsium vulgare"	"Bull thistle"	3		""	"NRTS"	04-AUG-15	
+41	"Admin"	15-FEB-10	15-FEB-10	"Tribulus cistoides"	"Burr-nut"	2		""	"NRTS"	04-AUG-15	
+42	"Admin"	15-FEB-10	15-FEB-10	"Neyraudia reynaudiana"	"Burma reed"	1		""	"NRTS"	04-AUG-15	
+43	"Admin"	15-FEB-10	15-FEB-10	"Triumphetta sp."	"Burrbark"	3		""	"NRTS"	04-AUG-15	
+44	"Admin"	15-FEB-10	15-FEB-10	"Urena lobata"	"Caesar's weed"	1		""	"G Walker"	28-OCT-11	
+45	"Admin"	15-FEB-10	15-FEB-10	"Caladium sp."	"Caladium"	3		""	"NRTS"	04-AUG-15	
+46	"Admin"	15-FEB-10	15-FEB-10	"Aristolochia littoralis"	"Calico flower"	2		""	"NRTS"	04-AUG-15	
+47	"Admin"	15-FEB-10	15-FEB-10	"Camellia sp."	"Camellia"	3		""	"NRTS"	04-AUG-15	
+48	"Admin"	15-FEB-10	15-FEB-10	"Cinnamomum camphora"	"Camphor-tree"	1		""	"NRTS"	04-AUG-15	
+49	"Admin"	15-FEB-10	15-FEB-10	"Senna alata"	"Candlestick plant"	3		""	"NRTS"	04-AUG-15	
+50	"Admin"	15-FEB-10	15-FEB-10	"Tecoma capensis"	"Cape honeysuckle"	3		""	"NRTS"	04-AUG-15	
+51	"Admin"	15-FEB-10	15-FEB-10	"Tabebuia aurea"	"Caribbean trumpettree"	3		""	"NRTS"	04-AUG-15	
+52	"Admin"	15-FEB-10	15-FEB-10	"Cupaniopsis anacardioides"	"Carrotwood"	1		""	"NRTS"	04-AUG-15	
+53	"Admin"	15-FEB-10	15-FEB-10	"Ricinus communis"	"Castor bean"	2		""	"NRTS"	04-AUG-15	
+54	"Admin"	15-FEB-10	15-FEB-10	"Mimosa pigra"	"Catclaw mimosa"	1		""	"NRTS"	04-AUG-15	
+55	"Admin"	15-FEB-10	15-FEB-10	"Macfadyena unguis-cati"	"Cat's claw vine"	1		""	"NRTS"	04-AUG-15	
+56	"Admin"	15-FEB-10	15-FEB-10	"Eremochloa ophiuroides"	"Centipede grass"	3		""	"NRTS"	04-AUG-15	
+57	"Admin"	15-FEB-10	15-FEB-10	"Agave sp."	"Century plant, unspecified"	3		""	"N Jones"	07-NOV-13	
+58	"Admin"	15-FEB-10	15-FEB-10	"Dianella ensifolia"	"Cerulean flaxlily"	3		""	"g2 species change"	28-DEC-12	
+59	"Admin"	15-FEB-10	15-FEB-10	"Phyllanthus uninaria"	"Chamber bitter"	3		""	"NRTS"	04-AUG-15	
+60	"Admin"	15-FEB-10	15-FEB-10	"Pittosporum sp."	"Cheesewood"	3		""	"NRTS"	04-AUG-15	
+61	"Admin"	15-FEB-10	15-FEB-10	"Kalanchoe delagoensis "	"Chandelier plant"	3		""	"NRTS"	04-AUG-15	
+62	"Admin"	15-FEB-10	15-FEB-10	"Melia azedarach"	"Chinaberry"	2		""	"NRTS"	04-AUG-15	
+63	"Admin"	15-FEB-10	15-FEB-10	"Severinia buxifolia"	"Chinese boxorange"	3		""	"NRTS"	04-AUG-15	
+64	"Admin"	15-FEB-10	15-FEB-10	"Pteris vittata"	"Chinese brake fern"	2		""	"NRTS"	04-AUG-15	
+65	"Admin"	15-FEB-10	15-FEB-10	"Livistona chinensis"	"Chinese fan palm"	2		""	"NRTS"	04-AUG-15	
+66	"Admin"	15-FEB-10	15-FEB-10	"Ilex cornuta"	"Chinese holly"	3		""	"NRTS"	04-AUG-15	
+67	"Admin"	15-FEB-10	15-FEB-10	"Juniperus chinensis"	"Chinese juniper"	3		""	"NRTS"	04-AUG-15	
+68	"Admin"	15-FEB-10	15-FEB-10	"Ligustrum sinense"	"Chinese privet"	1		""	"NRTS"	04-AUG-15	
+69	"Admin"	15-FEB-10	15-FEB-10	"Sapium sebiferum"	"Chinese tallow tree"	1		""	"NRTS"	04-AUG-15	
+70	"Admin"	15-FEB-10	15-FEB-10	"Flueggea virosa"	"Simpleleaf bushweed"	3		""	"NRTS"	04-AUG-15	
+71	"Admin"	15-FEB-10	15-FEB-10	"Wisteria sinensis"	"Chinese wisteria"	2		""	"NRTS"	04-AUG-15	
+72	"Admin"	15-FEB-10	15-FEB-10	"Citrullus lanatus"	"Watermelon"	3		""	"NRTS"	04-AUG-15	
+73	"Admin"	15-FEB-10	15-FEB-10	"Citrus sp. "	"Citrus"	3		""	"NRTS"	04-AUG-15	
+74	"Admin"	15-FEB-10	15-FEB-10	"Senna pendula"	"Climbing cassia"	1		""	"NRTS"	04-AUG-15	
+75	"Admin"	15-FEB-10	15-FEB-10	"Ficus pumila"	"Climbing fig"	3		""	"NRTS"	04-AUG-15	
+76	"Admin"	15-FEB-10	15-FEB-10	"Tridax procumbens"	"Coatbuttons"	3		""	"NRTS"	04-AUG-15	
+77	"Admin"	15-FEB-10	15-FEB-10	"Opuntia cochenillifera"	"Cochineal cactus"	3		""	"NRTS"	04-AUG-15	
+78	"Admin"	15-FEB-10	15-FEB-10	"Cocos nucifera"	"Coconut palm"	2		""	"G Walker"	28-OCT-11	
+79	"Admin"	15-FEB-10	15-FEB-10	"Imperata cylindrica"	"Cogon grass"	1		""	"NRTS"	04-AUG-15	
+80	"Admin"	15-FEB-10	15-FEB-10	"Asparagus setaceus"	"Common asparagus-fern"	3		""	"NRTS"	04-AUG-15	
+81	"Admin"	15-FEB-10	15-FEB-10	"Musa paradisiaca"	"Common banana"	3		""	"NRTS"	04-AUG-15	
+82	"Admin"	15-FEB-10	15-FEB-10	"Bambusa vulgaris"	"Common bamboo"	3		""	"NRTS"	04-AUG-15	
+83	"Admin"	15-FEB-10	15-FEB-10	"Verbascum thapsus"	"Common mullein"	3		""	"NRTS"	04-AUG-15	
+84	"Admin"	15-FEB-10	15-FEB-10	"Phragmites sp."	"Common reed"	3		""	"NRTS"	04-AUG-15	
+85	"Admin"	15-FEB-10	15-FEB-10	"Trachelospermum jasminoides"	"Confederate jasmine"	3		""	"NRTS"	04-AUG-15	
+86	"Admin"	15-FEB-10	15-FEB-10	"Ardisia crenata"	"Coral ardisia"	1		""	"NRTS"	04-AUG-15	
+87	"Admin"	15-FEB-10	15-FEB-10	"Antigonon leptopus"	"Coral vine"	2		""	"NRTS"	04-AUG-15	
+88	"Admin"	15-FEB-10	15-FEB-10	"Dracaena fragrans"	"Corn plant"	3		""	"NRTS"	04-AUG-15	
+89	"Admin"	15-FEB-10	15-FEB-10	"Lagerstroemia indica"	"Crepe myrtle"	3		""	"NRTS"	04-AUG-15	
+90	"Admin"	15-FEB-10	15-FEB-10	"Barleria cristata "	"Crested philippine violet"	3		""	"NRTS"	04-AUG-15	
+382	"KAUFMANN_G"	16-JUN-16	16-JUN-16	"Jatropha integerrima"	"Jatropha tree"	3	28338	""	""		
+386	"MULVEY_G"	16-JUN-17	16-JUN-17	"Pluchea carolinensis"	"Cure-for-all"	3	196238	""	""		
+388	"MULVEY_G"	11-DEC-17	11-DEC-17	"Sida planicaulis"	"Mata-pasto"	2	521435	""	""		
+387	"MULVEY_G"	31-OCT-17	31-OCT-17	"Microstegium vimineum"	"Nepalese browntop"	1	503829	""	""		
+389	"WALKER_G"	19-DEC-17	19-DEC-17	"Lumnitzera racemosa"	"Black mangrove"	1	564971	""	""		
+390	"WALKER_G"	19-DEC-17	19-DEC-17	"Microsorum grossum"	"Serpent fern; water fern"	1	897655	""	""		
+391	"WALKER_G"	19-DEC-17	19-DEC-17	"Sporobolus jacquemontii"	"West Indian dropseed"	1	42141	""	""		
+392	"WALKER_G"	19-DEC-17	19-DEC-17	"Thelypteris opulenta"	"Jeweled maiden fern"	1	17301	""	""		
+393	"WALKER_G"	19-DEC-17	19-DEC-17	"Bruguiera gymnorhiza"	"Large-leafed orange mangrove"	2	847569	""	""		
+394	"WALKER_G"	19-DEC-17	19-DEC-17	"Crassocephalum crepidioides"	"Redflower ragleaf"	2	501660	""	""		
+395	"WALKER_G"	19-DEC-17	19-DEC-17	"Heteropterys brachiata"	"Beechey's withe"	2	500929	""	""		
+396	"WALKER_G"	19-DEC-17	19-DEC-17	"Kalanchoe x houghtonii"	"Mother of millions"	2	500355	""	""		
+397	"WALKER_G"	19-DEC-17	19-DEC-17	"Mikania micrantha"	"Mile-a-minute vine"	2	36046	""	""		
+398	"WALKER_G"	19-DEC-17	19-DEC-17	"Cenchrus polystachios"	"Mission grass"	2	796723	""	""		
+402	"MULVEY_G"	28-DEC-17	28-DEC-17	"Platycerium bifurcatum"	"Staghorn fern"	2	897654	""	""		
+383	"KAUFMANN_G"	10-OCT-16	10-OCT-16	"Vitex rotundifolia"	"Beach vitex"	1	505725	""	""		
+385	"KAUFMANN_G"	12-MAY-17	12-MAY-17	"Spathoglottis plicata"	"Philippine ground orchid"	3	43771	""	""		
+403	"MULVEY_G"	21-MAR-18	21-MAR-18	"Eragrostis curvula"	"Weeping lovegrass"	3	502340	""	""		
+404	"MULVEY_G"	30-MAY-18	30-MAY-18	"Morus alba"	"White mulberry"	3	19066	""	""		
+405	"MULVEY_G"	30-MAY-18	30-MAY-18	"Praxelis clematidea "	"Praxelis"	2	10000	""	""		
+380	"JONES_NJ"	17-AUG-15	17-AUG-15	"None"	"None"	3	1	""	""		04-JUN-16
+381	"KAUFMANN_G"	18-MAR-16	18-MAR-16	"Ficus elastica"	"Indian rubberplant"	3	19085	""	""		
+384	"KAUFMANN_G"	20-DEC-16	20-DEC-16	"Crotalaria lanceolata"	"Lanceleaf rattlebox"	3	26572	""	""		
+399	"WALKER_G"	19-DEC-17	19-DEC-17	"Solanum jamaicense"	"Jamaica nightshade"	3	30436	""	""		
+400	"WALKER_G"	19-DEC-17	19-DEC-17	"Solanum jamaicense"	"Jamaica nightshade"	3	30436	""	""		19-DEC-17
+401	"WALKER_G"	19-DEC-17	19-DEC-17	"Solanum jamaicense"	"Jamaica nightshade"	3	30436	""	""		19-DEC-17
+412	"EDWARDS_RS"	21-JUN-22	21-JUN-22	"Azolla pinnata"	"Feathered mosquitofern"	3	181820	""	""		
+411	"MULVEY_G"	05-OCT-20	05-OCT-20	"No Species Observed"	"No Species Observed"	3	0	""	""		
+407	"MULVEY_G"	02-OCT-20	02-OCT-20	"Alpinia zerumbet"	"Shell ginger"	3	182557	""	""		
+408	"MULVEY_G"	02-OCT-20	02-OCT-20	"Triphasia trifolia"	"Limeberry"	3	29007	""	""		
+409	"MULVEY_G"	02-OCT-20	02-OCT-20	"Costus pulverulentus"	"Spiral ginger"	3	897276	""	""		
+410	"MULVEY_G"	02-OCT-20	02-OCT-20	"Zamia furfuracea"	"Cardboard palm"	3	822601	""	""		
+406	"MULVEY_G"	13-DEC-19	13-DEC-19	"Salvinia molesta"	"Giant salvinia"	3	181823	""	""		

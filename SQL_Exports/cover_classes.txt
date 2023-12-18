@@ -1,0 +1,16 @@
+"COVER_CLASS_KEY"	"CREATE_USER_NAME"	"CREATE_TS"	"BEGIN_DATE"	"COVER_CLASS_NAME"	"MID_POINT_NBR"	"COVER_CLASS_DSC"	"DISPLAY_ORDER_NBR"	"MODIFY_USER_NAME"	"MODIFY_TS"	"END_DATE"
+1	"NRTS"	04-AUG-15	06-NOV-10	"I"	3	"1% to 5% Cover"	1	""		03-JUL-20
+2	"NRTS"	04-AUG-15	06-NOV-10	"II"	16	"6% to 25% Cover"	2	""		03-JUL-20
+3	"NRTS"	04-AUG-15	06-NOV-10	"III"	38	"26% to 50% Cover"	3	""		03-JUL-20
+4	"NRTS"	04-AUG-15	06-NOV-10	"IV"	63	"51% to 75% Cover"	4	""		03-JUL-20
+5	"NRTS"	04-AUG-15	06-NOV-10	"V"	86	"76% to 95% Cover"	5	""		03-JUL-20
+6	"NRTS"	04-AUG-15	06-NOV-10	"VI"	98	"96% to 100% Cover"	6	""		03-JUL-20
+7	"NRTS"	04-AUG-15	06-NOV-10	"0"	0	"0% Cover (Infestation inactive or dormant)"	0	""		03-JUL-20
+8	"MULVEY_G"	03-JUL-20	03-JUL-20	"0"	0	"0% Cover (Infestation inactive or dormant)"	0	""		
+9	"MULVEY_G"	03-JUL-20	03-JUL-20	"I"	0.5	"0% to 1% Cover"	1	""		
+10	"MULVEY_G"	03-JUL-20	03-JUL-20	"II"	3	"1% to 5% Cover"	2	""		
+11	"MULVEY_G"	03-JUL-20	03-JUL-20	"III"	16	"6% to 25% Cover"	3	""		
+12	"MULVEY_G"	03-JUL-20	03-JUL-20	"IV"	38	"26% to 50% Cover"	4	""		
+13	"MULVEY_G"	03-JUL-20	03-JUL-20	"V"	63	"51% to 75% Cover"	5	""		
+14	"MULVEY_G"	03-JUL-20	03-JUL-20	"VI"	86	"76% to 95% Cover"	6	""		
+15	"MULVEY_G"	03-JUL-20	03-JUL-20	"VII"	98	"96% to 100% Cover"	7	""		
